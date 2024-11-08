@@ -26,11 +26,13 @@ Talking with the cool engineering team, we decided to prioritize some of the fea
 - **GET/models?greater=&lower=**: Filters car models on lower and greater parameters.
 - **PUT/models/:id**: Updates the average price of the desired car model.
 
+Really enjoyed the excercise, found some challenges on the population of the database with the json file, but really had fun.
+
 How would I proceed with more time?
 
-- Restructure database acoording to requirement to include brands table
+- Restructure database according to requirement to include brands table
 - Correct brands/brands_name/models as it should be with brand_id
-- Finish the implementation of the pending endpoints in the backlog.
+- Finish the implementation of the pending endpoints
 - Implement linted code, probably with Flake8.
 - Unit Tests for each endpoint
 
