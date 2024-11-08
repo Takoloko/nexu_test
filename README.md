@@ -13,10 +13,10 @@ Postman: Used for API testing and endpoint validation.
 
 ## INSTRUCTIONS ##
 
--Download the files
--Install the required dependencies for the app.py program to execute
--Run app.py on terminal
--Test the endpoints on browser
+- Download the files
+- Install the required dependencies for the app.py program to execute
+- Run app.py on terminal
+- Test the endpoints on browser
 
 ## Funcionalities
 
@@ -28,11 +28,11 @@ Postman: Used for API testing and endpoint validation.
 
 How would I proceed with more time?
 
--Restructure database acoording to requirement to include brands table
--Correct brands/brands_name/models as it should be with brand_id
--Finish the implementation of the pending endpoints in the backlog.
--Implement linted code, probably with Flake8.
--Unit Tests for each endpoint
+- Restructure database acoording to requirement to include brands table
+- Correct brands/brands_name/models as it should be with brand_id
+- Finish the implementation of the pending endpoints in the backlog.
+- Implement linted code, probably with Flake8.
+- Unit Tests for each endpoint
 
 
 
