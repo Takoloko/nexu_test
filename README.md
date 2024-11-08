@@ -5,7 +5,7 @@ by Angel González
 
 Talking with the cool engineering team, we decided to prioritize some of the features and use the following Tech Stack as we had 2 hours to deliver the coding solution to Frontend. 
 
-## Tech Stack##
+## Tech Stack ##
 Python: Main programming language.
 Flask: Lightweight framework for handling HTTP requests and API routes.
 SQLite: Database for storing models data.
